@@ -1,0 +1,9 @@
+[submodule "Flash-Chat"]
+	path = Flash-Chat
+	url = https://github.com/lordvidex/Flash-Chat.git
+[submodule "flash_chat"]
+	path = flash_chat
+	url = https://github.com/lordvidex/Flash-Chat.git
+[submodule "dicee_app"]
+	path = dicee_app
+	url = https://github.com/lordvidex/dicee.git
