@@ -13,7 +13,7 @@ class Home extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text('Ask Me Anything'),
-        backgroundColor: Colors.purple,
+        backgroundColor: Colors.blue[800],
       ),
      backgroundColor: Colors.blue[300],
       body: MagicBall(),
